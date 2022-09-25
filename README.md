@@ -3,10 +3,9 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/issues)
+[![GitHub issues](https://img.shields.io/github/issues/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)
 
 </div>
 
@@ -22,7 +21,7 @@
 ---
 ## 1.pwd command <a name = "pwd_command"></a>
 - ### ⛏️ compilation command
-    >$ gcc -o mypwd main.c
+    ```$ gcc -o mypwd main.c```
 - ### 🎈 Usage
     This command print the current working directory.
 
