@@ -5,7 +5,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/pulls)
-[![GitHub license](https://img.shields.io/github/license/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green)](https://github.com/ehababdalnaby/Femto-Unix-Utilities-pwd-echo-cp-mv/blob/main/LICENSE.md)
 
 </div>
 
@@ -15,7 +15,7 @@
 - [1. pwd command](#pwd_command)
 - [2. echo command](#echo_command)
 - [3. cp command](#cp_command)
-- [4. mv command](#cmv_command)
+- [4. mv command](#mv_command)
 
 
 ---
